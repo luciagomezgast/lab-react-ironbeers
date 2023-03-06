@@ -1,0 +1,11 @@
+#divbeers{
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 500;
+    flex-direction: column;
+}
+#IMG{
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
